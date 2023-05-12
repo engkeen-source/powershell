@@ -1,0 +1,5 @@
+FilePath,UserOrGroup,Permissions,Hostname,Comparison Result,Baseline Permission
+D:\Temp,BUILTIN\Administrators,FullControl,HostnameA,,
+D:\Temp2,NT AUTHORITY\SYSTEM,FullControl,HostnameA,,
+D:\Temp3,BUILTIN\Administrators,FullControl,HostnameB,,
+D:\Temp4,NT AUTHORITY\SYSTEM,FullControl,HostnameB,,
