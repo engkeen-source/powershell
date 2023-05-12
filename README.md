@@ -2,7 +2,7 @@
 Use PowerShell to perform various automation task
 
 # Combine-Excel-File
-1. Prepare a folder which has all the xlsx file you want to combine. 
+Prepare a folder which has all the xlsx file you want to combine. 
 ![image](https://github.com/engkeen-source/powershell/assets/71132168/c8bc9852-2b1d-4972-8d21-b1c5aecc7725)
 
 Sample Input:
